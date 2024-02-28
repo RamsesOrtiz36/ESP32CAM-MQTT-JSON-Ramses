@@ -19,3 +19,4 @@ Para configurar el nodo de MQTT,
       Colocomos el nombre del tema al que se quiere suscribir
   Cambiamos la Calidad del servicio a cero (0) CdS = QoS=0
 Aceptamos los cambios dando clic al boton rojo de "Hecho" o "Done"
+https://github.com/RamsesOrtiz36/ESP32CAM-MQTT-JSON-Ramses/blob/main/image.png
